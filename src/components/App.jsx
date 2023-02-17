@@ -60,7 +60,7 @@ export default function App() {
 
   return (
     <>
-      <Section title="ТелефонВbook">
+      <Section title="ТелефонВook">
         <ContactForm onAddContact={handleAddContact} />
       </Section>
       <Section title="Контакти">
